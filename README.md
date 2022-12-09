@@ -1,5 +1,5 @@
 # Проект: Путешествие по России
-https://Boris-Mana.github.io/russian-travel/index.html
+https://boris-mana.github.io/russian-travel-main/
 
 ## Функционал
 Одностраничный сайт-визитка
